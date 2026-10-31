@@ -6,4 +6,5 @@ Contains:
 - Simple game about collecting coins
 ## How to Play
 Move with WASD and collect coins
+
 When you collect 10 coins, stand on button a bit upper than map center
