@@ -1,6 +1,7 @@
 # Komaru-Game
 ## About Game
 Made for practice with Ruby and Gosu
+
 Contains:
 - Self written Vector2, Rectangle (and its variant), Camera
 - Simple game about collecting coins
